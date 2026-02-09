@@ -1,1 +1,1 @@
-Lo que sea util para este curso
+Lo que sea util para este curso. Requiero que los estudiantes usan git
